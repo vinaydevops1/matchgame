@@ -1,0 +1,13 @@
+.thumbnail-img-size {
+  height: 100px;
+  width: 100px;
+}
+.thumbnail-button {
+  background-color: transparent;
+  outline: none;
+  border: 0px solid;
+}
+.thumbnail-list {
+  list-style-type: none;
+  margin: 5px;
+}

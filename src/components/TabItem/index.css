@@ -1,0 +1,15 @@
+.tab-list {
+  list-style-type: none;
+}
+.button-style {
+  background-color: transparent;
+  border: 0px solid #fec653;
+
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+.add-color {
+  color: #fec653;
+  border-bottom-width: 2px;
+}
